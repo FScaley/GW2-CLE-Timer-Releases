@@ -16,6 +16,8 @@ Updates arrive automatically through Nexus.
 - **5 categories:** world boss, meta event, convergence, ley-line anomaly, dragonstorm
 - **Waypoint codes:** click a timeline segment to copy its waypoint
 - **Tracking and notifications:** right-click a segment to track it and get a notification before it starts
+- **Priority tiers:** an S-F badge on every segment shows which of several overlapping events is worth the most
+- **Done today:** right-click a segment to mark it done for the day, or let the GW2 API mark world bosses and Hero's Choice metas automatically (optional, needs an API key)
 - **Per-event toggles:** hide the events you don't care about in the options
 - **UTC and local time**
 - **Language:** English (default) or Turkish, in the options
