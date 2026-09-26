@@ -20,6 +20,7 @@ Updates arrive automatically through Nexus.
 - **Done today:** right-click a segment to mark it done for the day, or let the GW2 API mark world bosses and Hero's Choice metas automatically (optional, needs an API key)
 - **Per-event toggles:** hide the events you don't care about in the options
 - **UTC and local time**
+- **Claymore Law Assistant:** with it installed, its Next Steps cards show when the world bosses, metas and convergences they suggest start - from this timer's schedule
 - **Language:** English (default) or Turkish, in the options
 
 ## Data source
